@@ -1,0 +1,16 @@
+{
+    "name": "soufiane/2021.10.18_composer2",
+    "description": "Projet quete composer2",
+    "authors": [
+        {
+            "name": "soufcod3",
+            "email": "soufwra@gmail.com"
+        }
+    ],
+    "autoload": {
+        "psr-4": {
+            "App\\": "./src"
+        }
+    },
+    "require": {}
+}
